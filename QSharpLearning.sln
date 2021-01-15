@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumHello", "QuantumHello\QuantumHello.csproj", "{24B09EC4-6067-494F-B0BB-19FD953EDCF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumHello", "QuantumHello\QuantumHello.csproj", "{24B09EC4-6067-494F-B0BB-19FD953EDCF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumRNG", "QuantumRNG\QuantumRNG.csproj", "{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumRNG", "QuantumRNG\QuantumRNG.csproj", "{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringSuperposition", "ExploringSuperposition\ExploringSuperposition.csproj", "{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
