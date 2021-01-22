@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumHello", "QuantumHell
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumRNG", "QuantumRNG\QuantumRNG.csproj", "{3C5F7DF4-0DFA-4FA3-AB08-E8B9ABC001D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringSuperposition", "ExploringSuperposition\ExploringSuperposition.csproj", "{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExploringSuperposition", "ExploringSuperposition\ExploringSuperposition.csproj", "{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringInterference", "ExploringInterference\ExploringInterference.csproj", "{F60DE519-C6D2-4EBE-831D-1332A383683E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1927028-D6F1-4C6F-B29D-9C8BCA9E2643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60DE519-C6D2-4EBE-831D-1332A383683E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60DE519-C6D2-4EBE-831D-1332A383683E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60DE519-C6D2-4EBE-831D-1332A383683E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60DE519-C6D2-4EBE-831D-1332A383683E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
